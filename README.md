@@ -23,7 +23,7 @@ Configuration files used to enforce our coding guidelines / formatting
   * on Microsoft Windows: File -> Settings -> Other Settings -> Eclipse Code Formatter
   
 * Enable the plugin by ticking "Use the Eclipse code formatter"
-* Setting "Eclipse Java Formatter config file" by using the `src/main/resource/ProactiveCodeFormatter.xml`
+* Setting "Eclipse Java Formatter config file" by using the `src/main/resources/ProactiveCodeFormatter.xml`
 * Make sure the ProActive Rules is selected as "Java formatter profile"
 * Tick "Optimize Imports"
 * Select "Import order from file", which uses `src/main/resources/proactive.importorder`
